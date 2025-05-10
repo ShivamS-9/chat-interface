@@ -3,7 +3,7 @@
 A clean, animated, and responsive chat interface created for the Genoshi Frontend Developer Intern Challenge. This project features a dark-themed UI with smooth animations, React frontend, and Express backend with Cohere AI integration.
 
 ## Drive link of demo:
-https://shorturl.at/MM4rd
+https://shorturl.at/ec7UE
 
 ## Features
 
