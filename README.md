@@ -77,8 +77,28 @@ Run both the frontend and backend servers in development mode:
    The React app will open in your browser at http://localhost:3000
 
 ## Project Structure
-
-
+```
+CHAT-INTERFACE-MAIN
+├── backend
+│   ├── package-lock.json
+│   ├── package.json
+│   └── server.js
+├── frontend
+│   ├── public
+│   │   └── index.html
+│   ├── src
+│   │   ├── App.js
+│   │   ├── Chat.js
+│   │   ├── index.js
+│   │   ├── reportWebVitals.js
+│   │   └── styles.css
+│   ├── package-lock.json
+│   └── package.json
+├── .gitignore
+├── documentation.md
+├── package.json
+└── README.md
+```
 
 ## Customization
 
