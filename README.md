@@ -34,7 +34,7 @@ https://shorturl.at/ec7UE
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShivamS-9/chat-interface.git
-   cd immersive-chat-interface
+   cd chat-interface
    ```
 
 2. Install dependencies for both frontend and backend:
@@ -78,7 +78,7 @@ Run both the frontend and backend servers in development mode:
 
 ## Project Structure
 ```
-CHAT-INTERFACE-MAIN
+CHAT-INTERFACE
 ├── backend
 │   ├── package-lock.json
 │   ├── package.json
